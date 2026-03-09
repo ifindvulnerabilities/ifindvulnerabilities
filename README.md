@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.ibb.co/vC8hzT6P/banner.gif" alt="CyberWatch CTA" height="200">
+  <img src="https://github.com/CyberWatchCommunity/.github/blob/main/images/CyberWatch-Animated-Banner.gif?raw=true" alt="CyberWatch CTA" height="200">
 </div>
 
 <div align="center">
