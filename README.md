@@ -1,0 +1,1 @@
+![Contribution Chart](https://github-readme-activity-graph.vercel.app/graph?username=ifindvulnerabilities&custom_title=Repository%20Commits&hide_border=true&bg_color=000&color=ff0000&line=ff0000&point=ffffff)
