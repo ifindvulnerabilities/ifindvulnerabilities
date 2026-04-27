@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="https://cdn.discordapp.com/attachments/1498254025269706885/1498254207206031491/CyberWatch-Banner-New.gif" alt="CyberWatch CTA" height="200">
+    <img src="https://cdn.discordapp.com/attachments/1498254025269706885/1498254207206031491/CyberWatch-Banner-New.gif?ex=69f07d77&is=69ef2bf7&hm=3971aad33164c109b737804704d39f5cb67a6c0b3d3f7016980e2dc9906e2700&" alt="CyberWatch CTA" height="200">
   </div>
 
   <div>
