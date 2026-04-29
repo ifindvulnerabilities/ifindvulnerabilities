@@ -55,7 +55,7 @@ Whenever I’m not studying or worshiping at my local parish, I enjoy developing
 
 📫 *Feel free to reach out for collaborations, consulting, or freelance work!*  
 
-👉 **Discord:** [ifindvulnerabilities](https://discordapp.com/users/1312560296295927851)
+👉 **Discord:** [ifindvulnerabilities](https://discordapp.com/users/1493482307632234688)
 <br>
 👉 **Email:** [contact@cyberwatch.cc](mailto:contact@cyberwatch.cc)
 <br>
